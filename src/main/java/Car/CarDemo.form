@@ -12,9 +12,18 @@
         <properties/>
         <border type="none"/>
         <children>
+          <component id="5a512" class="javax.swing.JLabel" binding="northLabel">
+            <constraints/>
+            <properties>
+              <labelFor value="f382"/>
+              <text value="Car's ID"/>
+            </properties>
+          </component>
           <component id="f382" class="javax.swing.JTextField" binding="northTextField">
             <constraints/>
-            <properties/>
+            <properties>
+              <columns value="30"/>
+            </properties>
           </component>
           <component id="7ce5f" class="javax.swing.JButton" binding="northButton">
             <constraints/>
