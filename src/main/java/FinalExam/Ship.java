@@ -2,6 +2,6 @@ package FinalExam;
 
 public class Ship extends Ticket{
     public Ship(){
-        super("Ship ticket" , 800 , 2 , 0);
+        super("Ship ticket" , 1000 , 2 , 0);
     }
 }

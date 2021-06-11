@@ -2,6 +2,6 @@ package FinalExam;
 
 public class Hotel extends Ticket{
     public Hotel (){
-        super("Hotel ticket" , 5000 , 4 , 0);
+        super("Hotel ticket" , 4000 , 4 , 0);
     }
 }
